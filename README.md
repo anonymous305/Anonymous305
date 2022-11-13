@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Allan
-- 👀 I’m interested in hacking,security consolutancy and learning new codes for linux
-- 🌱 I’m currently learning c,c++,python
+- 👀 I’m interested in making free websites for development of my talent,hacking and software security consultancy.
+- 🌱 I’m currently learning c,c++,python,php,css,html
 - 💞️ from kenya
 - 📫 How to reach me: email@allanfun305@gmail.com
 
