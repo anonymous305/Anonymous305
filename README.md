@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Allan
-- 👀 I’m interested in making free websites for development of my talent,hacking and software security consultancy.
-- 🌱 I’m currently learning c,c++,python,php,css,html
+- 👀 I am a front end developer, software security consultant and tech enthusiast. My projects are developed mostly by PHP, HTML, CSS and MYSQL.
+- 🌱 I’m currently learning mysql, javas script and python.
 - 💞️ from kenya
 - 📫 How to reach me: email@allanfun305@gmail.com
 
